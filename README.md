@@ -84,9 +84,7 @@ bashcd frontend<br>
 npm install<br>
 npm run dev<br>
 
-The app runs on http://localhost:5173.<br>
-
-Note: the frontend currently points to http://localhost:3001 for both the REST API (src/utils/api.js) and the socket connection (src/hooks/useSocket.js). Update these to your deployed backend URL when running against a hosted API.<br>
+The app runs on https://calidraw-frontend.onrender.com<br>
 
 <br>
 How It Works<br>
@@ -98,7 +96,7 @@ Every draw action (add/update/delete element, cursor move) is emitted over the s
 
 <br>
 Deployment<br>
-Live demo: (link coming soon — deployment in progress)<br>
+Live demo: https://calidraw-frontend.onrender.com<br>
 <br>
 License<br>
 This project is open source and available for personal and educational use.<br>
