@@ -1,8 +1,8 @@
 Calidraw <br>
 A real-time collaborative whiteboard app inspired by Excalidraw — sketch shapes, freehand drawings, arrows and text on an infinite canvas, and see your teammates' cursors and edits update live.
 
-<img width="894" height="497" alt="image" src="https://github.com/user-attachments/assets/bcd03932-e447-43d8-947c-b11cec423567" />
 <img width="1466" height="501" alt="image" src="https://github.com/user-attachments/assets/c5e20b29-a81e-4bb9-82be-2eb89ed2addc" />
+<img width="894" height="497" alt="image" src="https://github.com/user-attachments/assets/bcd03932-e447-43d8-947c-b11cec423567" />
 
 Features <br>
 Freehand drawing canvas — rectangles, ellipses, lines, arrows, pencil strokes, and text tool<br>
