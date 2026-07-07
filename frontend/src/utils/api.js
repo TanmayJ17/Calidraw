@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3001/api';
+const BASE_URL = 'https://calidraw-frontend.onrender.com';
 
 export async function apiFetch(path, options = {}) {
   const token = localStorage.getItem('token');
